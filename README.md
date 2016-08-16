@@ -1,7 +1,9 @@
-## Minimalistic rEFInd theme
+## Minimalistic rEFInd theme, inverted colors edition
 
 [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
+
+This is an edit made by me (p4block) to invert the colors and remove the background. 
 
 ![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
 
