@@ -5,7 +5,6 @@ based systems. This is a clean and minimal theme for it.
 
 This is an edit made by me (p4block) to invert the colors and remove the background. 
 
-![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
 
 ### Usage
 
